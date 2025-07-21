@@ -1,0 +1,1 @@
+* Task 1: Initialized a Git repository in the projectpro foulder/directory, staged the file via git add, and committed it.
